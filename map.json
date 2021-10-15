@@ -335,8 +335,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":455,
-         "source":"src\/assets\/205px-Doppel-T-Anker_(Bosch-Logo).png.tsx"
+         "image":"src\/assets\/Logo.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"Logo",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
